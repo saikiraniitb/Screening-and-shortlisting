@@ -1,0 +1,5 @@
+{
+  "name": "AI Resume Screener",
+  "description": "An AI-powered tool to automate resume screening and shortlisting by matching candidates against job descriptions using semantic analysis.",
+  "requestFramePermissions": []
+}
